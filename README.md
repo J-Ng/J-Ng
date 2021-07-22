@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @J-Ng
 <img src="blackcurrent.jpg" align="right" />
 
 # J-Ng README
