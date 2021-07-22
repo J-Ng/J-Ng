@@ -25,8 +25,3 @@ Hi! Thanks for taking time to look at my github page. I make all my POCs here so
 
 - [Machine Learning using Python and scikit-learn](https://github.com/J-Ng/) - uses python and scikit-learn to produce the PIMA Prediction Model
 
-# License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Matias Singers](https://mts.io) has waived all copyright and related or neighboring rights to this work.
