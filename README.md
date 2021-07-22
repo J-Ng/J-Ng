@@ -11,7 +11,7 @@ Hi! Thanks for taking time to look at my github page. I make all my POCs here so
 - [AngularJS based web application](https://github.com/J-Ng/) - uses Angular JS, Node JS, Java and Spring Boot - ongoing
 - [ReactJS based web application](https://github.com/J-Ng/) - uses React JS, Node JS, Java and Spring Boot - to do
 
-## Rest API Service
+## Rest API Service / Microservices
 
 - [REST API Service](https://github.com/J-Ng/rest-api-calculator) - uses Java and Spring Boot to produce a calculator REST API service
 
