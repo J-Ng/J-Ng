@@ -9,11 +9,11 @@ Hi! Thanks for taking time to look at my github page. I make all my POCs here so
 ## Web Applications
 
 - [AngularJS based web application](https://github.com/J-Ng/) - uses Angular JS, Node JS, Java and Spring Boot - to do
-- [ReactJS based web application](https://github.com/J-Ng/) - uses React JS, Node JS, Java and Spring Boot - to do
+- [ReactJS based web application](https://github.com/J-Ng/) - uses React JS, Node JS, Java and Spring Boot - ongoing
 
 ## Rest API Service
 
-- [REST API Service](https://github.com/J-Ng/) - uses Java and Spring Boot to produce a calculator REST API service - ongoing
+- [REST API Service](https://github.com/J-Ng/rest-api-calculator) - uses Java and Spring Boot to produce a calculator REST API service
 
 ## Big Data and Analytics
 
