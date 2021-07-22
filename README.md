@@ -9,7 +9,7 @@ Hi! Thanks for taking time to look at my github page. I make all my POCs here so
 ## Web Applications
 
 - [AngularJS based web application](https://github.com/J-Ng/) - uses Angular JS, Node JS, Java and Spring Boot - ongoing
-- [ReactJS based web application](https://github.com/J-Ng/) - uses React JS, Node JS, Java and Spring Boot - to do
+- [ReactJS based web application](https://github.com/J-Ng/reactjs-web-application) - uses React JS, Node JS, Java and Spring Boot
 
 ## Rest API Service / Microservices
 
