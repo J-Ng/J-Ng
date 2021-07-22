@@ -1,4 +1,4 @@
-<img src="blackcurrant.jpg" align="right" />
+<img src="blackcurrant.jpg" align="right" width="250" height="250"/>
 
 # J-Ng README
 
