@@ -54,3 +54,8 @@ All the portfolio samples below were created during my free time and are not par
 
 - [Filtax](https://play.google.com/store/apps/details?id=com.ng.jose.si.incometaxph) - This app computes the take home salary of an employee after reducing tax and all other mandatory deductions based on Philippines’ Taxations Laws.
 - [Taboo For Kids App](http://play.google.com/store/apps/details?id=com.ng.jose.si.tabooforkids) - This app is based on the popular card game Taboo! Redesigned to fit for kids 3-12.
+
+## Certifications
+
+- [Google Cloud Platform -  Professional Cloud Architect](https://www.credential.net/311efa3c-b028-4048-9813-2a76492b53ed?key=e3ca2a3b0d27aa6c250020362fed9fa21f93861944cdb850049f705de8b91382)
+- [Google Cloud Platform - Associate Cloud Engineer](https://www.credential.net/cda3bdd7-bd75-4572-9814-7c66639cc8a2)
