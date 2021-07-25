@@ -13,15 +13,6 @@ He is also one of the founders of Whitespace Solutions. A Software House dedicat
 
 **Current Residence:** Singapore, Singapore
 
-## Career
-
-| Employer | Role | Time Frame | Technologies used |
-|-------|---|--------|---------|
-| DBS Bank | Technical Lead | Feb 2018 - Present | VueJS, NodeJS, Hadoop, Spark, Spring, Tomcat, Spring Boot, Spring Data, Java, Git, Hive, Impala, Nifi, ActiveMQ (Java Messaging Service or JMS), Hibernate, MariaDB Jenkins, Maven, Bash, Sonarqube
-| Credit Agricole Corporate and Investment Bank | Senior Software Engineer | July 2015 - February 2018 | ReactJS, NodeJS, Hadoop, Spark, JIRA, Sybase, Spring, Spring MVC, Hibernate, Java, SVN, SQL Server, Oracle, JS, Jenkins, Control-M, Maven Apache Tiles, Handlebars, JQGrid, Bash, Selenium, Cucumber, Sonarqube
-| Samsung R&D | Software Engineer | August 2013 - July 2015 | Java, Android, Objective-C, Swift,  Perforce, Git, Maven, Jenkins
-| Nokia | Software Engineer |  October 2011 - August 2013 | C, C++, WxWidgets, SVN, Jenkins, MySQL, AutoIT, Maven, Bash
-
 ## Business
 
 Whitespace Solutions is currently open to provide service on Software Related requests. From web-site creation to analytics and cloud-based processing.
