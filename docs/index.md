@@ -24,7 +24,9 @@ He is also one of the founders of Whitespace Solutions. A Software House dedicat
 
 ## Business
 
-Whitespace Solutions is currently open to provide service on Software Related requests. From web-site creation to analytics and cloud-based processing. 
+Whitespace Solutions is currently open to provide service on Software Related requests. From web-site creation to analytics and cloud-based processing.
+
+For any requests, please email Jose Ng directly at ng.jose.si@gmail.com
 
 ## Portfolio
 
@@ -48,3 +50,7 @@ All the portfolio samples below were created during my free time and are not par
 
 - [Machine Learning using Python and scikit-learn](https://github.com/J-Ng/) - uses python and scikit-learn to produce the PIMA Prediction Model - to do
 
+#### Mobile Development
+
+- [Filtax](https://play.google.com/store/apps/details?id=com.ng.jose.si.incometaxph) - This app computes the take home salary of an employee after reducing tax and all other mandatory deductions based on Philippines’ Taxations Laws.
+- [Taboo For Kids App](http://play.google.com/store/apps/details?id=com.ng.jose.si.tabooforkids) - This app is based on the popular card game Taboo! Redesigned to fit for kids 3-12.
