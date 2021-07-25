@@ -1,4 +1,6 @@
 theme: jekyll-theme-minimal
 title: Jose Ng
 logo: /assets/img/logo.png
-description: Software Engineer | Cloud Advocate | Big Data Engineer | ML enthusiast | Techpreneur.
+description: Software Engineer | Cloud Advocate | Big Data Engineer | ML enthusiast | Techpreneur
+github:
+  is_project_page: false
