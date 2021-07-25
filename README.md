@@ -1,8 +1,6 @@
-<img src="blackcurrant.jpg" align="right" width="250" height="250"/>
+# Hello There!
 
-# Jose Ng, Software Engineer | Cloud Advocate | Big Data Engineer | ML enthusiast | Techpreneur
-
-Hi! Thanks for taking time to look at my github page. I make all my POCs here so please do help yourself to look around if anything that seems interesting to you
+Thanks for taking time to look at my github page. I make all my POCs here so please do help yourself to look around if anything that seems interesting to you
 
 # Publicly available projects listed below
 
