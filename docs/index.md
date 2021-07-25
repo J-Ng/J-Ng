@@ -34,21 +34,21 @@ All the portfolio samples below were created during my free time and are not par
 
 #### Web Applications
 
-- [AngularJS based web application](https://github.com/J-Ng/) - uses Angular JS, Node JS, Java and Spring Boot - ongoing
-- [ReactJS based web application](https://github.com/J-Ng/reactjs-web-application) - uses React JS, Node JS, Java and Spring Boot
+- [AngularJS based web application](https://github.com/ngjosesi/) - uses Angular JS, Node JS, Java and Spring Boot - ongoing
+- [ReactJS based web application](https://github.com/ngjosesi/reactjs-web-application) - uses React JS, Node JS, Java and Spring Boot
 
 #### Rest API Service / Microservices
 
-- [REST API Service](https://github.com/J-Ng/rest-api-calculator) - uses Java and Spring Boot to produce a calculator REST API service
+- [REST API Service](https://github.com/ngjosesi/rest-api-calculator) - uses Java and Spring Boot to produce a calculator REST API service
 
 #### Big Data and Analytics
 
-- [Spark Job using Java (word count)](https://github.com/J-Ng/) - uses Apache Spark Java and Spring Boot - to do
-- [Spark Job using PySpark (word count)](https://github.com/J-Ng/) - uses PySpark - to do
+- [Spark Job using Java (word count)](https://github.com/ngjosesi/) - uses Apache Spark Java and Spring Boot - to do
+- [Spark Job using PySpark (word count)](https://github.com/ngjosesi/) - uses PySpark - to do
 
 #### Machine Learning
 
-- [Machine Learning using Python and scikit-learn](https://github.com/J-Ng/) - uses python and scikit-learn to produce the PIMA Prediction Model - to do
+- [Machine Learning using Python and scikit-learn](https://github.com/ngjosesi/) - uses python and scikit-learn to produce the PIMA Prediction Model - to do
 
 #### Mobile Development
 
