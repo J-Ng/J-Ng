@@ -6,7 +6,7 @@ Thanks for taking time to look at my github page. I make all my POCs here so ple
 
 ## Web Applications
 
-- [AngularJS based web application](https://github.com/ngjosesi/angularjs-web-application) - uses Angular JS, Node JS, Java and Spring Boot - ongoing
+- [AngularJS based web application](https://github.com/ngjosesi/angularjs-web-application) - uses Angular JS, Node JS, Java and Spring Boot
 - [ReactJS based web application](https://github.com/ngjosesi/reactjs-web-application) - uses React JS, Node JS, Java and Spring Boot
 
 ## Rest API Service / Microservices
@@ -15,8 +15,8 @@ Thanks for taking time to look at my github page. I make all my POCs here so ple
 
 ## Big Data and Analytics
 
-- [Spark Job using Java (word count)](https://github.com/ngjosesi/) - uses Apache Spark Java and Spring Boot - to do
-- [Spark Job using PySpark (word count)](https://github.com/ngjosesi/) - uses PySpark - to do
+- [CSV Ingestion into Hadoop via Spark](https://github.com/ngjosesi/) - uses Apache Spark Java and Spring Boot to ingest a CSV file into local hadoop file system - ongoing
+- [Spark SQL execution via Rest Api call using Python (pyspark + flask)](https://github.com/ngjosesi/) - uses PySpark and flask to enable to run spark sql queries via rest api queries - to do
 
 ## Machine Learning
 
