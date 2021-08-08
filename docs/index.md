@@ -51,7 +51,7 @@ All the portfolio samples below were created during my free time and are not par
 #### Big Data and Analytics
 
 - [CSV Ingestion into Hadoop via Spark](https://github.com/ngjosesi/spark-csv-ingestor) - uses Apache Spark Java and Spring Boot to ingest a CSV file into local hadoop file system
-- [Spark SQL execution via Rest Api call using Python (pyspark + flask)](https://github.com/ngjosesi/) - uses PySpark and flask to enable to run spark sql queries via rest api queries
+- [Spark SQL execution via Rest Api call using Python (pyspark + flask)](https://github.com/ngjosesi/python-web-spark-sql) - uses PySpark and flask to enable to run spark sql queries via rest api queries
 
 #### Machine Learning
 
