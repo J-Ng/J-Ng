@@ -1,6 +1,6 @@
 # Hello there!
 
-Thanks for taking time to look at my github page.
+Thanks for taking time to look at my github page. You may contact me by email [ng.jose.si@gmail.com](mailto:ng,jose.si@gmail.com)
 
 ## About Me
 
