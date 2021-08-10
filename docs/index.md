@@ -1,7 +1,6 @@
 # Hello there!
 
-Thanks for taking time to look at my github page. You can also take a look at my 
-[Linkedin Profile](https://www.linkedin.com/in/ngjosesi/). You can also check out my CV [here](https://docs.google.com/document/d/1gU9T8QujdCRQpGN7_aurCKtE4JMSNMqkrah6MAn87yU/edit?usp=sharing).
+Thanks for taking time to look at my github page.
 
 ## About Me
 
