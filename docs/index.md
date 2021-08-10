@@ -46,7 +46,7 @@ All the portfolio samples below were created during my free time and are not par
 
 #### Rest API Service / Microservices
 
-- [REST API Service](https://github.com/ngjosesi/rest-api-calculator) - uses Java and Spring Boot to produce a calculator REST API service
+- [REST API Service with MongoDB and Spring Boot](https://github.com/ngjosesi/rest-api-with-mongodb-spring-boot) - uses Java and Spring Boot to enable access to MongoDB server via Rest API calls
 
 #### Big Data and Analytics
 
