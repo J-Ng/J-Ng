@@ -31,6 +31,7 @@ For any requests, please email Jose Ng directly at ng.jose.si@gmail.com
 
 ## Certifications
 
+- [Amazon Web Services - Solution Architect Associate](https://www.credly.com/badges/a24a3901-ef31-415c-b9b8-58f4a2b373f4)
 - [Google Cloud Platform -  Professional Cloud Architect](https://www.credential.net/311efa3c-b028-4048-9813-2a76492b53ed?key=e3ca2a3b0d27aa6c250020362fed9fa21f93861944cdb850049f705de8b91382)
 - [Google Cloud Platform - Associate Cloud Engineer](https://www.credential.net/cda3bdd7-bd75-4572-9814-7c66639cc8a2)
 
