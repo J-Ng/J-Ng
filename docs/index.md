@@ -4,10 +4,9 @@ Thanks for taking time to look at my github page. You may contact me by email [n
 
 ## About Me
 
-Jose Ng has over 9 years of experience in the software development industry creating full stack enterprise applications from front-end web applications to back-end batch processing and microservice applications using database and big data. As well as experience in analytics using various Machine Learning Algorithms.
-<!---
-He is also one of the founders of Whitespace Solutions. A Software House dedicated to provide the best solutions to client needs. 
---->
+Jose Ng is a Senior Software Engineer with over 10 years of experience in the software development industry delivering full stack enterprise applications from front-end web applications to back-end batch processing and microservice applications using database and big data. He is experienced in analytics using various Machine Learning Algorithms.
+
+
 **Email:** ng.jose.si@gmail.com
 
 **Current Residence:** Singapore, Singapore
