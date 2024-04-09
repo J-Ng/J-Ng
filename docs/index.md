@@ -15,7 +15,7 @@ Jose Ng is a Senior Software Engineer with over 10 years of experience in the so
 
 | Employer | Role | Time Frame | Technologies used |
 |-------|---|--------|---------|
-| Paypal | Software Engineer III | Feb 2022 - Present | Java, Git, Spring Framework, Splunk, Jenkins, Maven, Bash
+| Paypal | Member of Technical Staff | Feb 2022 - Present | Java, Git, Spring Framework, Splunk, Jenkins, Maven, Bash
 | DBS Bank | Senior Associate | Feb 2018 - Feb 2022 | VueJS, NodeJS, Hadoop, Spark, Spring, Tomcat, Spring Boot, Spring Data, Java, Git, Hive, Impala, Nifi, ActiveMQ (Java Messaging Service or JMS), Hibernate, MariaDB, Jenkins, Maven, Bash, Sonarqube, Python, Scikit-learn, Presto, COS, S3
 | Credit Agricole Corporate and Investment Bank | Senior Software Engineer | July 2015 - February 2018 | ReactJS, NodeJS, Hadoop, Spark, JIRA, Sybase, Spring, Spring MVC, Hibernate, Java, SVN, SQL Server, Oracle, JS, Jenkins, Control-M, Maven Apache Tiles, Handlebars, JQGrid, Bash, Selenium, Cucumber, Sonarqube
 | Samsung R&D | Software Engineer | August 2013 - July 2015 | Java, Android, Objective-C, Swift,  Perforce, Git, Maven, Jenkins
